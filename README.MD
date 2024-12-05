@@ -16,7 +16,7 @@
   >
   
   <img 
-    src="https://cardsantos.vercel.app/" 
+    src="URL_DA_IMAGEM_HOSPEDADA_DO_SEU_CARD" 
     width="300" 
     alt="Profile Card"
   >
