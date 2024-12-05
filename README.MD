@@ -8,11 +8,6 @@
   </a>
   <br>
 
-  <img 
-    src="https://streak-stats.demolab.com?user=aac8&theme=black-ice&hide_border=true" 
-    alt="GitHub Streak" 
-    style="width: 450px; 
-  ">
   
   <img 
     src="https://skillicons.dev/icons?i=html,css,js,ts,cs,cpp" 
